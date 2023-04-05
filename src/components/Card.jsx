@@ -1,4 +1,3 @@
-import { children } from 'react'
 import './card.css'
 
 const Card = ({children, className, onClick}) => {
@@ -8,3 +7,5 @@ const Card = ({children, className, onClick}) => {
         </article>
     )
 }
+
+export default Card
