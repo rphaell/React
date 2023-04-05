@@ -21,7 +21,7 @@ const App = () => {
       <Testimonials />
       <FAQ />
       <Contact />
-      <Footer/>
+      <Footer />
       <FloatingNav />
     </main>
   )

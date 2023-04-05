@@ -20,9 +20,10 @@ nav {
 
 .nav__logo {
     width: 2.5rem;
-    border-radius: 50%;
-    overflow: hidden;
-    
+    font-weight: bold;
+    /* background: red; */
+    /* border-radius: 50%; */
+    /* overflow: hidden;     */
 }
 
 .nav__menu {
@@ -39,10 +40,6 @@ nav {
     cursor: pointer;
 }
 
-#wallet {
-    height: 3rem;
-    width: 3rem;
-}
 
 /* ESCONDER NAV MENU EM TABLES E CELULAR */
 
