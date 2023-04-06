@@ -1,6 +1,6 @@
 import './header.css'
 import data from './data'
-import HeaderImage from '../../assets/thanos.jpg'
+import HeaderImage from '../../assets/astronaut3.jpg'
 
 const Header = () => {
   return (

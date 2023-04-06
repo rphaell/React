@@ -1,5 +1,5 @@
 import './about.css'
-import AboutImage from '../../assets/about.jpg'
+import AboutImage from '../../assets/astronaut_header.jpg'
 import CV from '../../assets/cv.pdf'
 import { AiOutlineDownload } from 'react-icons/ai'
 import data from './data'
