@@ -10,4 +10,5 @@ const data = [
     {id: 4, icon: <AiFillAppstore/>, title: "UI/UX Design", desc: "My designs are modern and intuitiveMy designs are modern and intuitive"},
 ]
 
+
 export default data
