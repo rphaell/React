@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem 4rem;
-    /* align-items: start; */
+    align-items: center;
 }
 
 #faqs h2 {
@@ -46,13 +46,14 @@
 
 @media screen and (max-width:1024px) {
     .faqs__container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
     }
 }
 
 @media screen and (max-width: 800px) {
     .faqs__container {
         gap: 1rem;
+        grid-template-columns: 1fr;
     }
 }
 
