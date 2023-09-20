@@ -4,7 +4,7 @@ import HeaderImage from '../../assets/astronaut3.jpg'
 
 const Header = () => {
   return (
-    <header id="header">
+    <header class="background:red " id="header">
         <div className="container header__container">
           <div className="header__profile">
             <img src= {HeaderImage} alt="#" />
