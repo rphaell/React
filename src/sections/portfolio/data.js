@@ -11,7 +11,7 @@ import Image9 from '../../assets/project9.jpg'
 const data = [
     {
         id: 1,
-        category: 'uiux',
+        category: 'UI/UX',
         image: Image1,
         title: "Project Title One (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -20,7 +20,7 @@ const data = [
     },
     {
         id: 2,
-        category: 'frontend',
+        category: 'Frontend',
         image: Image2,
         title: "Project Title Two (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -29,7 +29,7 @@ const data = [
     },
     {
         id: 3,
-        category: 'frontend',
+        category: 'Frontend',
         image: Image3,
         title: "Project Title Three (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -38,7 +38,7 @@ const data = [
     },
     {
         id: 4,
-        category: 'uiux',
+        category: 'UI/UX',
         image: Image4,
         title: "Project Title Four (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -47,7 +47,7 @@ const data = [
     },
     {
         id: 5,
-        category: 'uiux',
+        category: 'UI/UX',
         image: Image5,
         title: "Project Title Five (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
@@ -56,7 +56,7 @@ const data = [
     },
     {
         id: 6,
-        category: 'frontend',
+        category: 'Frontend',
         image: Image6,
         title: "Project Title Six (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -65,7 +65,7 @@ const data = [
     },
     {
         id: 7,
-        category: 'frontend',
+        category: 'Frontend',
         image: Image7,
         title: "Project Title Seven (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -74,7 +74,7 @@ const data = [
     },
     {
         id: 8,
-        category: 'backend',
+        category: 'Backend',
         image: Image8,
         title: "Project Title Eight (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -83,7 +83,7 @@ const data = [
     },
     {
         id: 9,
-        category: 'frontend',
+        category: 'Frontend',
         image: Image9,
         title: "Project Title Nine (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",

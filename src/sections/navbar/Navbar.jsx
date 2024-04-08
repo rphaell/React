@@ -2,6 +2,7 @@
 import data from './data'
 import './navbar.css'
 import { MdDarkMode } from 'react-icons/md'
+import { FaWhatsapp } from "react-icons/fa";
 
 
 const Navbar = () => {
@@ -17,7 +18,7 @@ const Navbar = () => {
             data.map(item => <li key={item.id}><a href={item.link}>{item.title}</a></li>)
           }
         </ul>
-        <button id='theme__icon'><MdDarkMode /></button>
+        <a href="https://w.app/Infonet"><button id='theme__icon'><FaWhatsapp /></button></a>
       </div>
     </nav>
   )
