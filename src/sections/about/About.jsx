@@ -27,8 +27,8 @@ const About = () => {
               ))
             }
           </div>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum deserunt vero rem sunt, ipsa ipsam?</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, architecto ullam? Totam veritatis et modi?</p>
+          <p>I'm really into making websites and apps that are easy to use and understand.</p>
+          <p>Always learning and creating! Check out my resume to learn more about my skills and experience.</p>
           <a href={CV} download className="btn primary">Download CV<AiOutlineDownload /></a>
         </div>
       </div>

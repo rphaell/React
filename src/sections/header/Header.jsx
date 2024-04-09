@@ -7,11 +7,11 @@ const Header = () => {
     <header class="background:red " id="header">
         <div className="container header__container">
           <div className="header__profile">
-            <img src= {HeaderImage} alt="#" />
+            <img class = "header_image"src= {HeaderImage} alt="#" />
           </div>
           <h3>Raphael Almeida</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla mollitia totam id modi obcaecati dolorem? Maxime at exercitationem repudiandae magnam?
+          Hello, I'm Raphael. Welcome! <br />My portfolio highlights my work in user interface and user experience design
           </p>
           <div className="header__cta">
             <a href="#contact" className='btn primary'>Let's Talk</a>
