@@ -74,7 +74,7 @@ const data = [
     },
     {
         id: 8,
-        category: 'Backend',
+        category: 'UI/UX',
         image: Image8,
         title: "Project Title Eight (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",

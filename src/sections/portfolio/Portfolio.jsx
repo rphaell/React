@@ -23,8 +23,8 @@ const Portfolio = () => {
   return (
     <section id="portfolio">
       <h2>My Projects</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa ex corrupti ut obcaecati perferendis. Fuga.
-      </p>
+      <br />
+      <br />
       <div className="container portfolio__container">
         <ProjectsCategories categories={uniqueCategories} onFilterProjects={filterProjectsHandler}/>
         <Projects projects={projects}/>
